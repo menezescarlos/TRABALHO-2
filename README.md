@@ -8,7 +8,5 @@ quantitativamente.
 influenciar nos atrasos?
 3. Existe algum padrão ou tendência nos atrasos? 
 Se sim, o que pode ser feito para reduzi-los?
-![image](https://github.com/user-attachments/assets/b002a153-12d5-4299-b4c9-7ba67779a0ea)
-
 
 
